@@ -13,6 +13,7 @@ public void RemoveFromCartTest()
 {
 	System.out.println("Product removed");
 	System.out.println("this is engineer 1 ");
+	System.out.println("this is sample ");
 
-}
+	}
 }
